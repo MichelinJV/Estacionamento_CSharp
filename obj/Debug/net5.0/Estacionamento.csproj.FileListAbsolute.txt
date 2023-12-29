@@ -1,0 +1,16 @@
+C:\Users\MichelinJV\Documents\Projetos DIO\trilha-net-fundamentos-desafio-main\Estacionamento\obj\Debug\net5.0\Estacionamento.csproj.AssemblyReference.cache
+C:\Users\MichelinJV\Documents\Projetos DIO\trilha-net-fundamentos-desafio-main\Estacionamento\obj\Debug\net5.0\Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MichelinJV\Documents\Projetos DIO\trilha-net-fundamentos-desafio-main\Estacionamento\obj\Debug\net5.0\Estacionamento.AssemblyInfoInputs.cache
+C:\Users\MichelinJV\Documents\Projetos DIO\trilha-net-fundamentos-desafio-main\Estacionamento\obj\Debug\net5.0\Estacionamento.AssemblyInfo.cs
+C:\Users\MichelinJV\Documents\Projetos DIO\trilha-net-fundamentos-desafio-main\Estacionamento\obj\Debug\net5.0\Estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\MichelinJV\Documents\Projetos DIO\trilha-net-fundamentos-desafio-main\Estacionamento\bin\Debug\net5.0\Estacionamento.exe
+C:\Users\MichelinJV\Documents\Projetos DIO\trilha-net-fundamentos-desafio-main\Estacionamento\bin\Debug\net5.0\Estacionamento.deps.json
+C:\Users\MichelinJV\Documents\Projetos DIO\trilha-net-fundamentos-desafio-main\Estacionamento\bin\Debug\net5.0\Estacionamento.runtimeconfig.json
+C:\Users\MichelinJV\Documents\Projetos DIO\trilha-net-fundamentos-desafio-main\Estacionamento\bin\Debug\net5.0\Estacionamento.runtimeconfig.dev.json
+C:\Users\MichelinJV\Documents\Projetos DIO\trilha-net-fundamentos-desafio-main\Estacionamento\bin\Debug\net5.0\Estacionamento.dll
+C:\Users\MichelinJV\Documents\Projetos DIO\trilha-net-fundamentos-desafio-main\Estacionamento\bin\Debug\net5.0\ref\Estacionamento.dll
+C:\Users\MichelinJV\Documents\Projetos DIO\trilha-net-fundamentos-desafio-main\Estacionamento\bin\Debug\net5.0\Estacionamento.pdb
+C:\Users\MichelinJV\Documents\Projetos DIO\trilha-net-fundamentos-desafio-main\Estacionamento\obj\Debug\net5.0\Estacionamento.dll
+C:\Users\MichelinJV\Documents\Projetos DIO\trilha-net-fundamentos-desafio-main\Estacionamento\obj\Debug\net5.0\ref\Estacionamento.dll
+C:\Users\MichelinJV\Documents\Projetos DIO\trilha-net-fundamentos-desafio-main\Estacionamento\obj\Debug\net5.0\Estacionamento.pdb
+C:\Users\MichelinJV\Documents\Projetos DIO\trilha-net-fundamentos-desafio-main\Estacionamento\obj\Debug\net5.0\Estacionamento.genruntimeconfig.cache
